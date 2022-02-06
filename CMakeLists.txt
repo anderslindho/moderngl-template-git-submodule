@@ -1,9 +1,9 @@
 cmake_minimum_required(VERSION 3.16)
-project(moderngl-template)
+project(moderngl-template-git-submodule)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SRC_DIR ${CMAKE_CURRENT_SOURCE_DIR}/moderngl-template)
+set(SRC_DIR ${CMAKE_CURRENT_SOURCE_DIR}/moderngl-template-git-submodule)
 set(LIB_DIR ${CMAKE_CURRENT_SOURCE_DIR}/libs)
 
 set(SOURCES ${SRC_DIR}/main.cc)
