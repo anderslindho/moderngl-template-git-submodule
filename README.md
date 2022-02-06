@@ -2,6 +2,8 @@
 
 Template project for C++ OpenGL applications.
 
+The sample code (in `main.cc`) is the "hello triangle" example from learnopengl.com.
+
 ## Quickstart
 
 This project is built with CMake and uses git submodules, so:
